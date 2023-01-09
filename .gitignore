@@ -51,4 +51,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-Colleen
+Sully/Sully*
+!Sully/Sully.c
+Colleen/Colleen
+Grace/Grace
+Grace/Grace_kid.c
+.vscode
